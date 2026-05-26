@@ -1,5 +1,6 @@
 name: calling workflow
 on: push
+
 jobs:
- calling-greeting:
-  uses: ./.github/workflow/resuable.yml
+  calling-greeting:
+    uses: ./.github/workflow/resuable.yml
