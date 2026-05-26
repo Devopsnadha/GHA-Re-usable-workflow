@@ -1,6 +1,6 @@
 name: resuable workflow
 on:
- wokflow_call:
+    wokflow_call:
 
 jobs:
  greeting:
