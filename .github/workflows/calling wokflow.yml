@@ -3,4 +3,4 @@ on: push
 
 jobs:
   call-greeting:
-       uses: ./.github/workflow/resuable.yml
+       uses: ./.github/workflows/resuable.yml
